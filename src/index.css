@@ -1,0 +1,160 @@
+.evm{
+  width: 37%;
+  margin: 20px 20px;
+  height: 700px;
+  /* border: solid 1px black; */
+  padding: 30px;
+  float: left;
+  background-color: lightyellow;
+  box-shadow: inset 0px 0px 8px 1px #eacb90;
+}
+
+
+.partys{
+  width: 95%;
+  height: 7%;
+}
+.party{
+  width: 59%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+}
+
+.votingbutton{
+  width: 40%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+  
+
+}
+.imgparty{
+  width: 72%;
+  height: 84%;
+}
+h3{
+  width: 100%;
+  margin: 14px 4px;
+}
+.logo{
+  width: 19%;
+  height: 100%;
+  /* border: solid 1px black; */
+  float: left;
+  padding: 3px;
+
+}
+.name{
+  width: 79%;
+  height: 100%;
+  /* border: solid 1px black; */
+  float: left;
+}
+
+button{
+  width: 88px;
+  height: 41px;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  position: absolute;
+  margin: -47px 97px;
+  box-shadow: inset 0px 0px 8px 1px #2c2923;
+
+
+}
+.voteconfarm{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #c31e1e;
+  margin: 16px 33px;
+}
+.result{
+  width: 35%;
+  height: auto;
+  padding: 20px;
+  border: solid;
+  float: left;
+}
+
+.resultelection{
+  width: 100%;
+  height: 50px;
+  border: solid 1px ;
+}
+
+.allresult{
+  width: 97%;
+  height: auto;
+  margin: 10px 0px;
+  border: solid 1px;
+  padding: 7px;
+}
+
+@media screen and (max-width: 400px){
+  .evm {
+    width: 77%;
+    margin: 20px 20px;
+    height: 567px;
+    padding: 30px;
+    float: left;
+    background-color: lightyellow;
+    box-shadow: inset 0px 0px 8px 1px #eacb90;
+    font-size: 10px;
+    }
+
+.logo {
+  width: 13%;
+  height: 50%;
+  /* border: solid 1px black; */
+  float: left;
+  padding: 3px;
+  margin: 11px 3px;
+}
+
+
+element.style {
+  background-color: rgb(195, 30, 30);
+  box-shadow: none;
+}
+.voteconfarm {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #c31e1e;
+  margin: 10px 8px;
+}
+
+button {
+  width: 63px;
+  height: 27px;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  position: absolute;
+  margin: -30px 49px;
+  box-shadow: inset 0px 0px 8px 1px #2c2923;
+}
+
+.partys {
+  width: 105%;
+  height: 7%;
+}
+
+.result {
+  width: 80%;
+  height: auto;
+  padding: 20px;
+  border: solid;
+  float: left;
+  margin: 0px 22px;
+  font-size: 10px;
+}
+
+
+
+}
+
+
